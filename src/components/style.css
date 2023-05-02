@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-group {
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+}
+.btn {
+  margin-top: 40px;
+}
+.alert {
+  margin-top: 20px;
+}
